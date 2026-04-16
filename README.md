@@ -1,4 +1,4 @@
-#python-highlighting-evergreen-lxl
+# python-lxl-evergreen-highlighting
 
 basic highlighting for python in evergreen lite lxl treesitter
 # setup
